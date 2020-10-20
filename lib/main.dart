@@ -5,7 +5,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.blue,
         appBar: AppBar(
           title: Text('Open flutter Tutorials'),
           backgroundColor: Colors.cyan[600],
